@@ -1,1 +1,1 @@
-# Project_7_User_interface
+# This is the only UI of a single page design.
